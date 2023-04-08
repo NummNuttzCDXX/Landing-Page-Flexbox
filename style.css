@@ -35,6 +35,10 @@ a {
     color: #e5e7eb;
 }
 
+.hero {
+    display: flex;
+}
+
 .hero h2 {
     font-size: 48px;
     font-weight: bolder;
