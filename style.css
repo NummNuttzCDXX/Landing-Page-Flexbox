@@ -37,12 +37,22 @@ a {
 
 .hero {
     display: flex;
+    justify-content: center;
+    flex-wrap: wrap;
 }
 
 .hero h2 {
     font-size: 48px;
     font-weight: bolder;
     color: #f9faf8;
+}
+
+.text-left {
+    width: 400px;
+}
+
+.image {
+    flex-grow: 1;
 }
 
 .text,
