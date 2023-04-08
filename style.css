@@ -1,0 +1,57 @@
+body {
+    display: flex;
+    flex-direction: column;
+}
+
+.top {
+    background-color: #1f2937;
+}
+
+.logo {
+    font-size: 24px;
+    color: #f9faf8;
+}
+
+ul {
+    list-style: none;
+    font-size: 16px;
+}
+
+a {
+    text-decoration: none;
+    color: #e5e7eb;
+}
+
+.hero h2 {
+    font-size: 48px;
+    font-weight: bolder;
+    color: #f9faf8;
+}
+
+.text,
+.image {
+    font-size: 18px;
+    color: #e5e7eb;
+}
+
+button,
+.action {
+    background-color: #3882f6;
+}
+
+.information h2 {
+    font-size: 36px;
+    font-weight: bolder;
+    color: #1f2937;
+}
+
+.quote {
+    background-color: #e5e7eb;
+    font-size: 36px;
+    font-style: italic;
+}
+
+.footer {
+    background-color: #1f2937;
+    color: #f9faf8;
+}
