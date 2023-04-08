@@ -52,7 +52,12 @@ a {
 }
 
 .image {
-    flex-grow: 1;
+    background-color: #65676c;
+    width: 400px;
+    height: auto;
+    display: flex;
+    justify-content: center;
+    align-items: center;
 }
 
 .text,
