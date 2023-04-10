@@ -15,6 +15,7 @@ body {
 
 .header {
     display: flex;
+    align-items: baseline;
     gap: 330px;
 }
 
@@ -37,6 +38,7 @@ a {
 }
 
 .hero {
+    padding: 100px;
     display: flex;
 }
 
