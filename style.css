@@ -1,4 +1,5 @@
 body {
+    margin: 0;
     display: flex;
     flex-direction: column;
 }
@@ -9,17 +10,17 @@ body {
     display: flex;
     flex-direction: column;
     justify-content: center;
+    align-items: center;
 }
 
 .header {
     display: flex;
+    gap: 330px;
 }
 
 .logo {
     font-size: 24px;
     color: #f9faf8;
-
-    margin-right: auto;
 }
 
 ul {
@@ -37,8 +38,6 @@ a {
 
 .hero {
     display: flex;
-    justify-content: center;
-    flex-wrap: wrap;
 }
 
 .hero h2 {
