@@ -126,6 +126,7 @@ button,
 /* Quote Section */
 .quote {
     background-color: #e5e7eb;
+    color: #1f2937;
     font-size: 36px;
     font-style: italic;
     padding: 100px;
@@ -139,6 +140,10 @@ button,
 }
 
 .signature {
+    font-size: 25px;
+    font-style: normal;
+    color: black;
+    font-weight: bold;
     margin-left: auto;
 }
 
