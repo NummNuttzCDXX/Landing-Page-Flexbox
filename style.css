@@ -67,6 +67,20 @@ a {
     color: #e5e7eb;
 }
 
+button {
+    color: #e5e7eb;
+    font-size: 20px;
+    padding-left: 15px;
+    padding-right: 15px;
+    padding-top: 5px;
+    padding-bottom: 5px;
+    border-radius: 8px;  /* Creates rounded corners for button */
+}
+
+.sign-up {
+    margin-top: 10px;
+}
+
 button,
 .action {
     background-color: #3882f6;
