@@ -4,6 +4,7 @@ body {
     flex-direction: column;
 }
 
+/* Top Section / Header */
 .top {
     background-color: #1f2937;
     
@@ -87,18 +88,34 @@ button,
     background-color: #3882f6;
 }
 
+/* Information Section */
+
+.information {
+    display: flex;
+    flex-direction: column;
+}
+
 .information h2 {
     font-size: 36px;
     font-weight: bolder;
     color: #1f2937;
 }
 
+.box {
+    border: 5px solid #3882f6;  /* Line Width, Style, Color */
+    border-radius: 12px;
+    width: 200px;
+    height: 200px;
+}
+
+/* Quote Section */
 .quote {
     background-color: #e5e7eb;
     font-size: 36px;
     font-style: italic;
 }
 
+/* Footer */
 .footer {
     background-color: #1f2937;
     color: #f9faf8;
