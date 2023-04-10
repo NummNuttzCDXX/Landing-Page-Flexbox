@@ -1,4 +1,5 @@
 body {
+    font-family: sans-serif;
     margin: 0;
     display: flex;
     flex-direction: column;
@@ -105,6 +106,13 @@ button,
 .items {
     display: flex;
     gap: 40px;
+}
+
+.item {
+    color: #65676c;
+    font-size: 20px;
+    width: 200px;
+    text-align: center;
 }
 
 .box {
