@@ -147,6 +147,13 @@ button,
     margin-left: auto;
 }
 
+/* Call to Action */
+.action {
+    margin: 100px;
+    padding: 20px;
+    color: #f9faf8;
+}
+
 /* Footer */
 .footer {
     background-color: #1f2937;
