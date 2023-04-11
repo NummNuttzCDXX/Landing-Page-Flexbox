@@ -150,8 +150,21 @@ button,
 /* Call to Action */
 .action {
     margin: 100px;
-    padding: 20px;
+    margin-left: 200px;
+    margin-right: 200px;
+    padding: 50px;
     color: #f9faf8;
+
+    display: flex;
+    justify-content: space-around;
+}
+
+.heading {
+    font-size: 25px;
+}
+
+.act-sub {
+    color: #e5e7eb;
 }
 
 /* Footer */
