@@ -71,7 +71,7 @@ a {
 
 button {
     color: #e5e7eb;
-    font-size: 20px;
+    font-size: 18px;
     padding-left: 15px;
     padding-right: 15px;
     padding-top: 5px;
@@ -165,6 +165,13 @@ button,
 
 .act-sub {
     color: #e5e7eb;
+}
+
+.button {
+    border: white solid 3px;
+    width: 100px;
+    height: fit-content;
+    align-self: flex-end;
 }
 
 /* Footer */
