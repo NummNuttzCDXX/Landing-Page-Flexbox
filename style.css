@@ -154,6 +154,7 @@ button,
     margin-right: 200px;
     padding: 50px;
     color: #f9faf8;
+    border-radius: 8px;
 
     display: flex;
     justify-content: space-around;
